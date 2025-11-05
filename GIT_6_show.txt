@@ -1,0 +1,21 @@
+commit d9a602488e10db4d6041836747f07337bb96716f
+Author: Aleksandra_Goc <goc.aleksandra.5@gmail.com>
+Date:   Wed Nov 5 20:36:15 2025 +0100
+
+    Kolejna część zadania
+
+diff --git a/GIT_6_log_oneline.txt b/GIT_6_log_oneline.txt
+new file mode 100644
+index 0000000..5871b22
+--- /dev/null
++++ b/GIT_6_log_oneline.txt
+@@ -0,0 +1,4 @@
++8077bac
++345f8b3 (HEAD -> master) Added 7 files.
++
++Po wykonaniu akcji git log --online pokazuje się treść notatki commit. 
+\ No newline at end of file
+
+
+
+W tej części po wykonaniu akcji git show pokarzą się dotychczasowe wykonane commit. 
