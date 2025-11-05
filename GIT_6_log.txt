@@ -1,0 +1,9 @@
+Po prowadzeniu komendy git log pokazuje się informacja: 
+commit 345f8b326b5f53e610f91a53bbdaa703d702ff3c (HEAD -> master)
+
+Autor: Aleksandra_Goc <goc.aleksandra.5gmail.com>
+Date: Wed Nov 5 19:15:52 2025 +0100
+
+Added 7 files. 
+
+Czyli kto dokonał commist, konkretną date przeprowadzenia operacji oraz treść notatki. 
