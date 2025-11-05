@@ -1,0 +1,4 @@
+My idea from GIT_1
+
+
+System kontroli wersji można wykorzystać w bazach danych jak widma masowych do identyfikacji organizmów używających w MALDI. Można wykorzystywać do podglądu i śledzenia dodawanych, nowych opisów do będących już w bazie danych, organizmów. Mogą to być informacje o pochodzeniu bakterii, dacie pomiaru albo parametry instrumentu którymi dany organizm został uzyskany.

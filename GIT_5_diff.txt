@@ -1,0 +1,3 @@
+Zmiany, które zostały wykonane to: 
+1. utworzono nowy plik: drugi_plik.txt i dodano do niego dwa teskty (mówią o tym dwa znaki + pod sobą) 
+2. zmodyfikowano plik (który już wcześniej istniał) dodając do niego jedną linijkę teksu. 
