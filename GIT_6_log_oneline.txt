@@ -1,0 +1,4 @@
+8077bac
+345f8b3 (HEAD -> master) Added 7 files.
+
+Po wykonaniu akcji git log --online pokazuje się treść notatki commit. 
