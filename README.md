@@ -14,3 +14,7 @@ Numer słuchacza: 5014
 
 Podstawowe działania w systemie kontroli wersji Git.
 
+
+
+Tym wpisem chcemy spowodować konflikt. 
+
