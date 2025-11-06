@@ -1,0 +1,1 @@
+stash@{0}: WIP on master: 2ea0871 Zadanie git7 - zmiany historii gałęzi
