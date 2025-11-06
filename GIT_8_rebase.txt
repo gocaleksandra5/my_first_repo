@@ -1,0 +1,89 @@
+commit 0ca980fb8e84d8dfc542e62f9ba82e757aa8078a
+Author: Aleksandra_Goc <goc.aleksandra.5@gmail.com>
+Date:   Thu Nov 6 22:46:07 2025 +0100
+
+    Zadanie GIT8- po przywróceniu stash
+    
+    Zadanie 8 - stan repozytorium
+    
+    Zadanie GIT8 - połączenie commitów po przywróceniu stash i zapisu stanu repozytorium
+
+commit 7d97816e7571f3a75bf7050e71b4cb740023320b
+Merge: 8278df6 f1543d1
+Author: Aleksandra_Goc <goc.aleksandra.5@gmail.com>
+Date:   Thu Nov 6 22:38:13 2025 +0100
+
+    Merge branch 'test'
+
+commit f1543d159c23a68acc6e2b17e0c476144e450f75
+Author: Aleksandra_Goc <goc.aleksandra.5@gmail.com>
+Date:   Thu Nov 6 22:37:29 2025 +0100
+
+    Zadanie git8 - różnice między commitami
+
+commit d645a9c6700bdaf48a52764d22543a90ab12d037
+Author: Aleksandra_Goc <goc.aleksandra.5@gmail.com>
+Date:   Thu Nov 6 22:34:33 2025 +0100
+
+    Zadanie git8 - historia repozytorium
+
+commit 8278df6a231c3172405fd4ade654a80891f50745
+Author: Aleksandra_Goc <goc.aleksandra.5@gmail.com>
+Date:   Thu Nov 6 22:31:56 2025 +0100
+
+    zadanie git8 - zmiany stash
+
+commit 2ea08710749123b1d58235ae290f505ef410cbdf
+Author: Aleksandra_Goc <goc.aleksandra.5@gmail.com>
+Date:   Thu Nov 6 21:54:55 2025 +0100
+
+    Zadanie git7 - zmiany historii gałęzi
+
+commit 8af57534705f25af3126869f792b78a1f563eec5
+Merge: f571f25 a459f93
+Author: Aleksandra_Goc <goc.aleksandra.5@gmail.com>
+Date:   Thu Nov 6 21:52:14 2025 +0100
+
+    Zadanie git7 - rozwiązanie konfliktu
+
+commit a459f9379254a2447348f0431c11738301fd71fa
+Author: Aleksandra_Goc <goc.aleksandra.5@gmail.com>
+Date:   Thu Nov 6 21:46:41 2025 +0100
+
+    Zadanie git 7 - opis konflikt
+
+commit f571f2583c009bc610181a45845a3fd2cca0c591
+Author: Aleksandra_Goc <goc.aleksandra.5@gmail.com>
+Date:   Thu Nov 6 21:43:28 2025 +0100
+
+    Zadanie git7 opis
+
+commit 8eb2ea1e9eada3b2d35d277de2cd3a9be52c1083
+Author: Aleksandra_Goc <goc.aleksandra.5@gmail.com>
+Date:   Wed Nov 5 21:18:51 2025 +0100
+
+    Zadanie GIT_7
+
+commit 8a6a617a796db3ef5b44b06344b1df3909f3ee17
+Author: Aleksandra_Goc <goc.aleksandra.5@gmail.com>
+Date:   Wed Nov 5 20:42:13 2025 +0100
+
+    Ostatnia część zadania
+
+commit d9a602488e10db4d6041836747f07337bb96716f
+Author: Aleksandra_Goc <goc.aleksandra.5@gmail.com>
+Date:   Wed Nov 5 20:36:15 2025 +0100
+
+    Kolejna część zadania
+
+commit 8077bac4049479f02fe86121f32e7473be38b000
+Author: Aleksandra_Goc <goc.aleksandra.5@gmail.com>
+Date:   Wed Nov 5 20:22:28 2025 +0100
+
+    Treść zadania
+
+commit 345f8b326b5f53e610f91a53bbdaa703d702ff3c
+Author: Aleksandra_Goc <goc.aleksandra.5@gmail.com>
+Date:   Wed Nov 5 19:15:52 2025 +0100
+
+    Added 7 files.
