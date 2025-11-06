@@ -1,0 +1,10 @@
+*   8af5753 Zadanie git7 - rozwiązanie konfliktu
+|\  
+| * a459f93 Zadanie git 7 - opis konflikt
+* | f571f25 Zadanie git7 opis
+|/  
+* 8eb2ea1 Zadanie GIT_7
+* 8a6a617 Ostatnia część zadania
+* d9a6024 Kolejna część zadania
+* 8077bac Treść zadania
+* 345f8b3 Added 7 files.
