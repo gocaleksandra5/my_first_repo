@@ -14,3 +14,7 @@ Numer słuchacza: 5014
 
 Podstawowe działania w systemie kontroli wersji Git.
 
+
+
+Praca z gałęziami i rozwiązywanie konfliktów.
+
