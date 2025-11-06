@@ -1,0 +1,41 @@
+diff --git a/GIT_8_log.txt b/GIT_8_log.txt
+new file mode 100644
+index 0000000..920ad1a
+--- /dev/null
++++ b/GIT_8_log.txt
+@@ -0,0 +1,35 @@
++commit a459f9379254a2447348f0431c11738301fd71fa
++Author: Aleksandra_Goc <goc.aleksandra.5@gmail.com>
++Date:   Thu Nov 6 21:46:41 2025 +0100
++
++    Zadanie git 7 - opis konflikt
++
++commit 8eb2ea1e9eada3b2d35d277de2cd3a9be52c1083
++Author: Aleksandra_Goc <goc.aleksandra.5@gmail.com>
++Date:   Wed Nov 5 21:18:51 2025 +0100
++
++    Zadanie GIT_7
++
++commit 8a6a617a796db3ef5b44b06344b1df3909f3ee17
++Author: Aleksandra_Goc <goc.aleksandra.5@gmail.com>
++Date:   Wed Nov 5 20:42:13 2025 +0100
++
++    Ostatnia część zadania
++
++commit d9a602488e10db4d6041836747f07337bb96716f
++Author: Aleksandra_Goc <goc.aleksandra.5@gmail.com>
++Date:   Wed Nov 5 20:36:15 2025 +0100
++
++    Kolejna część zadania
++
++commit 8077bac4049479f02fe86121f32e7473be38b000
++Author: Aleksandra_Goc <goc.aleksandra.5@gmail.com>
++Date:   Wed Nov 5 20:22:28 2025 +0100
++
++    Treść zadania
++
++commit 345f8b326b5f53e610f91a53bbdaa703d702ff3c
++Author: Aleksandra_Goc <goc.aleksandra.5@gmail.com>
++Date:   Wed Nov 5 19:15:52 2025 +0100
++
++    Added 7 files.
