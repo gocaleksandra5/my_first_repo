@@ -1,22 +1,14 @@
-Projekt GIT\_3
+# Nazwa przedmiotu to Systemy kontroli wersji.
+Nazwa repozytorium to my\_first\_repo
 
+**Aleksandra Goc**
 
+*Numer słuchacza: pd5014*
 
-Przedmiot: Systemy kontroli wersji
+1. Podstawowe działania w systemie kontroli wersji Git.
+2. Praca z gałęziami i rozwiązywanie konfliktów.
+3. Tym wpisem chcemy spowodować konflikt.
 
-Repozytorium: my\_first\_repo
+'git init'
 
-Autor: Aleksandra Goc
-
-Numer słuchacza: 5014
-
-
-
-Podstawowe działania w systemie kontroli wersji Git.
-
-
-
-
-Praca z gałęziami i rozwiązywanie konfliktów.
-Tym wpisem chcemy spowodować konflikt. 
 
