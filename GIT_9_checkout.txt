@@ -1,3 +1,4 @@
+60cc5f3 Zadanie GIT9 - odzyskiwanie commitu
 0907548 Zadanie GIT8 - zapis log repozytorium
 179436a Zadanie GIT8 - log przez cherry-pick
 b300832 Zadanie GIT8 - historia po rebase
