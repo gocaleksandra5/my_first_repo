@@ -1,4 +1,5 @@
 # Nazwa przedmiotu to Systemy kontroli wersji.
+
 Nazwa repozytorium to my\_first\_repo
 
 **Aleksandra Goc**
