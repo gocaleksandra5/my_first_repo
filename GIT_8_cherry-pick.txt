@@ -1,0 +1,8 @@
+* f1543d1 Zadanie git8 - różnice między commitami
+* d645a9c Zadanie git8 - historia repozytorium
+* a459f93 Zadanie git 7 - opis konflikt
+* 8eb2ea1 Zadanie GIT_7
+* 8a6a617 Ostatnia część zadania
+* d9a6024 Kolejna część zadania
+* 8077bac Treść zadania
+* 345f8b3 Added 7 files.
