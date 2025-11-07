@@ -1,0 +1,17 @@
+0907548 Zadanie GIT8 - zapis log repozytorium
+179436a Zadanie GIT8 - log przez cherry-pick
+b300832 Zadanie GIT8 - historia po rebase
+0ca980f Zadanie GIT8- po przywróceniu stash
+7d97816 Merge branch 'test'
+f1543d1 Zadanie git8 - różnice między commitami
+d645a9c Zadanie git8 - historia repozytorium
+8278df6 zadanie git8 - zmiany stash
+2ea0871 Zadanie git7 - zmiany historii gałęzi
+8af5753 Zadanie git7 - rozwiązanie konfliktu
+a459f93 Zadanie git 7 - opis konflikt
+f571f25 Zadanie git7 opis
+8eb2ea1 Zadanie GIT_7
+8a6a617 Ostatnia część zadania
+d9a6024 Kolejna część zadania
+8077bac Treść zadania
+345f8b3 Added 7 files.
