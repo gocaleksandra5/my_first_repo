@@ -1,0 +1,37 @@
+62bc3cd HEAD@{0}: commit: Zadanie GIT9 - historia po resecie
+0907548 HEAD@{1}: reset: moving to HEAD~1
+17de222 HEAD@{2}: commit: Zadanie GIT9 - zapis historii commitów
+0907548 HEAD@{3}: commit: Zadanie GIT8 - zapis log repozytorium
+179436a HEAD@{4}: cherry-pick: Zadanie GIT8 - log przez cherry-pick
+b300832 HEAD@{5}: checkout: moving from test to master
+ad3265d HEAD@{6}: commit: Zadanie GIT8 - log przez cherry-pick
+f1543d1 HEAD@{7}: checkout: moving from master to test
+b300832 HEAD@{8}: commit: Zadanie GIT8 - historia po rebase
+0ca980f HEAD@{9}: rebase (finish): returning to refs/heads/master
+0ca980f HEAD@{10}: rebase (squash): Zadanie GIT8- po przywróceniu stash
+7f5d994 HEAD@{11}: rebase (start): checkout HEAD~2
+778bd1f HEAD@{12}: commit: Zadanie 8 - stan repozytorium
+7f5d994 HEAD@{13}: commit: Zadanie GIT8- po przywróceniu stash
+7d97816 HEAD@{14}: merge test: Merge made by the 'ort' strategy.
+8278df6 HEAD@{15}: checkout: moving from test to master
+f1543d1 HEAD@{16}: commit: Zadanie git8 - różnice między commitami
+d645a9c HEAD@{17}: commit: Zadanie git8 - historia repozytorium
+a459f93 HEAD@{18}: checkout: moving from master to test
+8278df6 HEAD@{19}: commit: zadanie git8 - zmiany stash
+2ea0871 HEAD@{20}: reset: moving to HEAD
+2ea0871 HEAD@{21}: checkout: moving from master to master
+2ea0871 HEAD@{22}: commit: Zadanie git7 - zmiany historii gałęzi
+8af5753 HEAD@{23}: commit (merge): Zadanie git7 - rozwiązanie konfliktu
+f571f25 HEAD@{24}: checkout: moving from test to master
+a459f93 HEAD@{25}: commit: Zadanie git 7 - opis konflikt
+8eb2ea1 HEAD@{26}: checkout: moving from master to test
+f571f25 HEAD@{27}: commit: Zadanie git7 opis
+8eb2ea1 HEAD@{28}: checkout: moving from master to master
+8eb2ea1 HEAD@{29}: merge test: Fast-forward
+8a6a617 HEAD@{30}: checkout: moving from test to master
+8eb2ea1 HEAD@{31}: commit: Zadanie GIT_7
+8a6a617 HEAD@{32}: checkout: moving from master to test
+8a6a617 HEAD@{33}: commit: Ostatnia część zadania
+d9a6024 HEAD@{34}: commit: Kolejna część zadania
+8077bac HEAD@{35}: commit: Treść zadania
+345f8b3 HEAD@{36}: commit (initial): Added 7 files.
