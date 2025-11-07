@@ -5,10 +5,13 @@ Nazwa repozytorium to my\_first\_repo
 
 *Numer słuchacza: pd5014*
 
-1. Podstawowe działania w systemie kontroli wersji Git.
-2. Praca z gałęziami i rozwiązywanie konfliktów.
-3. Tym wpisem chcemy spowodować konflikt.
+1. 07.11.2025
+2. 18:50
+   
+Podstawowe działania w systemie kontroli wersji Git.
+Praca z gałęziami i rozwiązywanie konfliktów.
+Tym wpisem chcemy spowodować konflikt.
 
-'git init'
+`git init`
 
 
